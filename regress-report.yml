@@ -1,9 +1,11 @@
 bugreports:
   - summary: |
-      Язык интерфейса
+      Смена языка
+    environment: |
+      https://products-store-v2.hexlet.app/
     steps-to-reproduce: |
-      1. Открыть страницу интернет-магазина https://products-store-v2.hexlet.app/
-      2. Сменить язык интерфейса с "English" на "Русский" или "Spanish"
+      1. Открыть страницу интернет-магазина
+      2. Сменить язык интерфейса с "English" на "Русский"
       3. Нажать на кнопку "Магазин"
     expected-result: |
       Выбранный язык не должен меняться
