@@ -1,7 +1,7 @@
 ---
 - summary: |
     Не работает доступ к личной странице на  Hexlet
-  enviroment: |
+  environment: |
     Goggle Chrome  147.0.7727.138 (официальная сборка) (64 бит)
     ОС Windows 11 Домашняя 22H4
   steps-to-reproduce: |
