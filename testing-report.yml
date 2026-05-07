@@ -1,3 +1,8 @@
 - summary: |
     Добавление товара в корзину
   status: pass
+
+- summary: |
+    Сортировка по категориям
+  requirement: | 
+   status: pass
