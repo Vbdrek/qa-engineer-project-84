@@ -4,15 +4,15 @@
 
 - summary: |
     Сортировка по категориям
-   status: fail
+  status: fail
 
 - summary: |
     Оформление заказа
-   status: fail
+  status: fail
 
 - summary: |
     Язык интерфейса
- status: fail
+  status: fail
 
 - summary: |
     Отображение страницы приложения на мобильном устройстве
