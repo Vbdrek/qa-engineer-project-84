@@ -1,13 +1,23 @@
-bugreports:
-  - summary: |
-      Смена языка
-    environment: |
-      https://products-store-v2.hexlet.app/
-    steps-to-reproduce: |
-      1. Открыть страницу интернет-магазина
-      2. Сменить язык интерфейса с "English" на "Русский"
-      3. Нажать на кнопку "Магазин"
-    expected-result: |
-      Выбранный язык не должен меняться
-    actual-result: |
-      Язык интерфейса при нажатии кнопки "Магазин" становится "English"
+---
+test-cases:
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Сортировка по категориям
+  status: fail
+
+- summary: |
+    Оформление заказа
+  status: fail
+
+- summary: |
+    Язык интерфейса
+  status: fail
+
+- summary: |
+    Отображение страницы приложения на мобильном устройстве
+  status: fail
+
+  bugreports: []
