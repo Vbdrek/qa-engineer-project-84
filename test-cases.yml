@@ -17,7 +17,7 @@
     Сортировка по категориям
   requirement: | 
     При выборе категории в списке должны остаться только подходящие под нее 
-  prerequsites: |
+  prerequisites: |
     Открыть страницу магазина
   test-data: |
     no-data
@@ -31,7 +31,7 @@
     Оформление заказа
   requirement: | 
     Должна быть возможность оформить заказ
-  prerequsites: |
+  prerequisites: |
     no-data
   test-data: |
     no-data
@@ -45,7 +45,7 @@
     Язык интерфейса
   requirement: | 
     Весь интерфейс должен быть на выбраном языке
-  prerequsites: |
+  prerequisites: |
     Открыта страница интернет-магазина
   test-data: |
     no-data
