@@ -9,3 +9,8 @@
 - summary: |
     Оформление заказа
    status: fail
+
+- summary: |
+    Язык интерфейса
+ status: fail
+
