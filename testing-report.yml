@@ -5,4 +5,6 @@
 - summary: |
     Сортировка по категориям
   requirement: | 
-   status: pass
+   status: fail
+
+   
