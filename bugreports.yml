@@ -28,7 +28,7 @@
   
 - summary: |
     Оформление заказа
- environment: |
+  environment: |
     Google Chrome Version 147.0.7727.138 (официальная сборка) (64 бит)
     Windows 11 Домашняя 24H2
   steps-to-reproduce: |
@@ -40,7 +40,7 @@
 
 - summary: |
     Язык интерфейса
- environment: |
+  environment: |
     Google Chrome Version 147.0.7727.138 (официальная сборка) (64 бит)
     Windows 11 Домашняя 24H2
   steps-to-reproduce: |
