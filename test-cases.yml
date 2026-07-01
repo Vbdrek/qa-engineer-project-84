@@ -177,7 +177,7 @@
   steps:
     - Открыть корзину
     - Нажать "Удалить"
-   expected-result: |
+  expected-result: |
      Товар должен удалиться из корзины
 
 - summary: |
