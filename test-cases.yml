@@ -100,7 +100,7 @@
 - summary: |
     Строка поиска
   requirement: | 
-    Строка потска работает корректно
+    Строка поиска работает корректно
   prerequisites: |
     no-data
   test-data: |
