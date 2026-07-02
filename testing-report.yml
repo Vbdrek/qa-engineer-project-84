@@ -20,11 +20,11 @@
 
 - summary: |
     Успешное отображение товара в каталоге
-   status: pass
+  status: pass
 
 - summary: |
     Строка поиска
-   status: fail
+  status: fail
 
 - summary: |
     Фильтр по производителю
