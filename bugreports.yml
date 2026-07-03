@@ -68,14 +68,14 @@
 
 - summary: |
      Строка поиска
-   environment: |
+  environment: |
      Google Chrome Version 147.0.7727.138 (официальная сборка) (64 бит)
      Windows 11 Домашняя 24H2
-   steps-to-reproduce: |
+  steps-to-reproduce: |
       1. В строке поиска ввести первую букву
-   expected-result: |
+  expected-result: |
       Фильтрация каталога по первой букве
-    actual-result: |
+  actual-result: |
       Каталог товаров фильтруется со всеми товарами с введённой буквой
 
 - summary: |
