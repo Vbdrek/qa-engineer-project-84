@@ -19,5 +19,62 @@ test-cases:
 - summary: |
     Отображение страницы приложения на мобильном устройстве
   status: fail
+  
+- summary: |
+    Успешное отображение товара в каталоге
+  status: pass
 
+- summary: |
+    Строка поиска
+  status: fail
+
+- summary: |
+    Фильтр по производителю
+  status: pass
+
+- summary: |
+    Фильтр по цене
+  status: pass
+
+- summary: |
+    Фильтр по наличию
+  status: pass
+
+- summary: |
+    Добавление нескольких товаров в корзину
+  status: pass
+
+- summary: |
+    Удаление товаров из корзины
+  status: pass
+
+- summary: |
+     Очистка корзины
+  status: pass
+
+- summary: |
+      Продолжение покупок из корзины
+  status: pass
+
+- summary: |
+      Просмотр страницы товара
+  status: pass
+
+- summary: |
+      Хештег с переходом в категорию
+  status: fail
+
+- summary: |
+      Поиск несуществующего товара
+  status: fail
+
+- summary: |
+      Закрытие окна оформления заказа
+  status: fail
+
+- summary: |
+      Проверка запросов в DevTools при загрузке каталога
+  status: pass
+ 
   bugreports: []
+
