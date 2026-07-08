@@ -171,7 +171,7 @@
   requirement: | 
     Пользователь может удалять товары из корзины
   prerequisites: |
-    no-data
+    В корзине есть несколько товаров
   test-data: |
     no-data
   steps:
@@ -185,7 +185,7 @@
   requirement: | 
     Пользователь может очищать корзину
   prerequisites: |
-    no-data
+    В корзине находятся товары
   test-data: |
     no-data
   steps:
