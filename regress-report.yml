@@ -34,7 +34,7 @@ test-cases:
 
 - summary: |
     Фильтр по цене
-  status: pass
+  status: fail
 
 - summary: |
     Фильтр по наличию
@@ -74,7 +74,7 @@ test-cases:
 
 - summary: |
       Проверка запросов в DevTools при загрузке каталога
-  status: pass
+  status: fail
  
   bugreports: []
 
