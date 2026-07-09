@@ -73,3 +73,7 @@
 - summary: |
     Проверка запросов в DevTools при загрузке каталога
   status: fail   
+
+- summary: |
+    Выравнивание элементов в корзине
+  status: fail   
